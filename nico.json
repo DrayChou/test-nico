@@ -1,0 +1,18 @@
+{
+    "source": "content",
+    "output": "_site",
+    "theme": "_themes/one",
+    "permalink": "{{directory}}/{{pubdate.year}}/{{pubdate.mouth}}/{{pubdate.day}}/{{filename}}/",
+    "writers": [
+        "nico.PostWriter",
+        "nico.PageWriter",
+        "nico.FileWriter",
+        "nico.StaticWriter",
+        "nico.ArchiveWriter",
+        "nico.YearWriter",
+        "nico.TagWriter",
+        "nico.DirectoryWriter",
+        "nico.FeedWriter"
+    ]
+}
+
