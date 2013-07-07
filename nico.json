@@ -1,8 +1,15 @@
 {
     "source": "content",
+<<<<<<< HEAD
     "output": "_site",
     "theme": "_themes/one",
     "permalink": "{{directory}}/{{pubdate.year}}/{{pubdate.mouth}}/{{pubdate.day}}/{{filename}}/",
+=======
+    "output": "../test-nico-web/",
+    "theme": "_themes/one",
+    "feed_output": "atom.xml",
+    "permalink": "{{pubdate.year}}/{{pubdate.month}}/{{pubdate.date}}/{{filename}}/",
+>>>>>>> 6250544ac22149a3b60f5f0871236166cc8ff27b
     "writers": [
         "nico.PostWriter",
         "nico.PageWriter",
@@ -13,6 +20,20 @@
         "nico.TagWriter",
         "nico.DirectoryWriter",
         "nico.FeedWriter"
+<<<<<<< HEAD
+=======
+    ],
+    "footer": "&copy; 2013 Dray",
+
+    "sitename": "Dray's nico",
+    "author": "Dray",
+    "description": "Blog of Dray",
+
+    "navigation": [
+        {
+            "link": "index.html", "title": "首页"
+        }
+>>>>>>> 6250544ac22149a3b60f5f0871236166cc8ff27b
     ]
 }
 
