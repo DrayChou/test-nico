@@ -15,16 +15,15 @@
         "nico.DirectoryWriter",
         "nico.FeedWriter"
     ],
-    "footer": "&copy; 2013 Dray",
 
     "sitename": "Dray's nico",
     "author": "Dray",
     "description": "Blog of Dray",
+    "github": "https://github.com/DrayChou/test-nico",
 
     "navigation": [
-        {
-            "link": "index.html", "title": "首页"
-        }
-    ]
+        { "link": "index.html", "title": "首页" }
+    ],
+    "footer": "&copy; 2013 Dray"    
 }
 
