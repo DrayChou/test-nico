@@ -14,15 +14,5 @@
             <![CDATA[ <p>Hello World, Hello Nico.</p>
 ]]>
         </content>
-    </entry><entry>
-        <title type="html"><![CDATA[Hello Nico]]></title>
-        <link href="2012/12/12/"/>
-        <published>2012-12-12T00:00:00.000Z</published>
-        <updated>2012-12-12T00:00:00.000Z</updated>
-        <id>2012/12/12/</id>
-        <content type="html" xml:base="" xml:lang="en">
-            <![CDATA[ <p>Hello World, Hello Nico.</p>
-]]>
-        </content>
     </entry>
 </feed>
